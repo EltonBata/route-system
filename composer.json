@@ -1,0 +1,15 @@
+{
+    "name": "eltonbata/php-routes",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EltonBata",
+            "email": "eltonbata14@gmail.com"
+        }
+    ],
+    "require": {}
+}
